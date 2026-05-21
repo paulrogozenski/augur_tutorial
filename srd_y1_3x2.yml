@@ -147,26 +147,6 @@ fisher:
     gaussian_priors:
        lens0_bias: 0.9
        lens1_bias: 0.9
-       lens2_bias: 0.9
-       lens3_bias: 0.9
-       lens4_bias: 0.9
-       lens0_delta_z: 0.005
-       lens1_delta_z: 0.005
-       lens2_delta_z: 0.005
-       lens3_delta_z: 0.005
-       lens4_delta_z: 0.005
-       src0_delta_z: 0.002
-       src1_delta_z: 0.002
-       src2_delta_z: 0.002
-       src3_delta_z: 0.002
-       src4_delta_z: 0.002
-       src0_mult_bias: 0.013
-       src1_mult_bias: 0.013
-       src2_mult_bias: 0.013
-       src3_mult_bias: 0.013
-       src4_mult_bias: 0.013
-       ia_bias: 3.9
-       alphaz: 2.3
        Omega_c : 0.2 # actually for Omega_m, as per SRD p43
        Omega_b : 0.006 #SRD p43
        h : 0.063
